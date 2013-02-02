@@ -1,4 +1,4 @@
 laobubu-strange-stuffs
 ======================
-
-Strange Stuffs
+laobubu's Strange Stuffs...
+sometimes it might help you.
