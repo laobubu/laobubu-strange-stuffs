@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Archiver-Version: 7Zip Archiver
+Created-By: laobubu
+Built-By: Eclipse
+Build-Jdk: 1.6.0_31
+
